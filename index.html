@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Aminul Islam - SEO Web Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #800080;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .banner {
+                position: relative;
+                text-align: center;
+                color: white;
+              } 
+        .service {
+            margin-bottom: 20px;
+        }
+        .service h3 {
+            color: #800080;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact a {
+            display: inline-block;
+            background-color: #800080;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .contact a:hover {
+            background-color: #800080;
+        }
+        footer {
+            background-color: #800080;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        form {
+            text-align: center;
+            margin-top: 20px;
+        }
+        form input[type="text"],
+        form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            box-sizing: border-box;
+        }
+        form input[type="submit"],
+        form input[type="button"] {
+            background-color: #800080;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        form input[type="submit"]:hover,
+        form input[type="button"]:hover {
+            background-color: #800080;
+        }
+        .alert {
+            display: none;
+            padding: 20px;
+            background-color: #800080;
+            color: white;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        /* library area style start */
+        .library {
+            margin: 2% 2%;
+            background-color: #000000;
+            color: #ffffff;
+        }
+        /* box area main style start */
+        * {
+            box-sizing: border-box;
+        }
+
+        .header {
+            border: 1px solid #ffffff;
+            padding: 15px;
+            text-align: center;
+        }
+        .sub-header {
+            text-align: center;
+        }
+        .heading {
+            text-align: center;
+        }
+        .hr {
+            width: 20%;
+        }
+
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        [class*="col-"] {
+            float: left;
+            padding: 15px;
+            border: 1px solid #ffffff;
+        }
+
+        .col-01 {width: 8.33%;}
+        .col-02 {width: 16.66%;}
+        .col-03 {width: 25%;}
+        .col-04 {width: 33.33%;}
+        .col-05 {width: 41.66%;}
+        .col-06 {width: 50%;}
+        .col-07 {width: 58.33%;}
+        .col-08 {width: 66.66%;}
+        .col-09 {width: 75%;}
+        .col-10 {width: 83.33%;}
+        .col-11 {width: 91.66%;}
+        .col-12 {width: 100%;}
+
+        /* box area hover style start */
+        .col-03 li a,
+        .col-06 li a,
+        .col-09 li a,
+        .col-10 li a {
+            text-decoration: none;
+            color: #ffffff;
+            display: block;
+        }
+
+        .col-03 li a:hover,
+        .col-06 li a:hover,
+        .col-09 li a:hover,
+        .col-10 li a:hover {
+            color: #B2BEB5;
+            text-decoration: underline;
+        }
+        /* box area hover style end */
+
+
+
+        /* Style the navigation bar */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #800080;
+            padding: 10px 20px;
+        }
+        
+        /* Style the links inside the navigation bar */
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+        }
+        
+        /* Change the color of links on hover */
+        nav a:hover {
+            color: #ffffff;
+            background-color: #000000;
+        }
+        
+        /* Responsive navigation menu */
+        @media screen and (max-width: 600px) {
+            nav {
+            flex-direction: column;
+            align-items: flex-start;
+            }
+        
+            nav a {
+            padding: 10px;
+            }
+        }
+        
+  
+        /* Responsive design */
+        @media only screen and (max-width: 1200px) {
+            .col-03 {width: 50%;}
+            .col-06 {width: 100%;}
+        }
+
+        @media only screen and (max-width: 768px) {
+            .col-03 {width: 100%;}
+            .banner img {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="https://www.google.com/search?q=Mohammad+Aminul+Islam+@+aminbiography&stick=H4sIAAAAAAAA_-NgU1I1qDA2NzVNM7UwTDI2MEw1Mje2MqgwSjGzME9KsjS0SEpKSU5JW8Sq6pufkZibm5ii4JibmVeao-BZnJOYq-CgkAjkJmXmpxclFmRUAgAUuD0OUQAAAA&hl=en&mat=CZehwXZjLqgTElcBeenfiE0KU-tH_FP0BVwpvJbcGOUNcSOqhzVdxLEAD9nNnSiyPcz-MyL6oEg_sgslqFtsRo4vXYLPuh2dr92A4mHgjc6fozCIf9H3LTSb-CLHWAd4HM4&authuser=0#ip=1" target="_blank">Mohammad Aminul Islam</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+        <a href="#libraryofamin">Library Of Amin</a>
+        <a href="https://www.google.com/search?q=Mohammad+Aminul+Islam+@+aminbiography&stick=H4sIAAAAAAAA_-NgU1I1qDA2NzVNM7UwTDI2MEw1Mje2MqgwSjGzME9KsjS0SEpKSU5JW8Sq6pufkZibm5ii4JibmVeao-BZnJOYq-CgkAjkJmXmpxclFmRUAgAUuD0OUQAAAA&hl=en&mat=CZehwXZjLqgTElcBeenfiE0KU-tH_FP0BVwpvJbcGOUNcSOqhzVdxLEAD9nNnSiyPcz-MyL6oEg_sgslqFtsRo4vXYLPuh2dr92A4mHgjc6fozCIf9H3LTSb-CLHWAd4HM4&authuser=0#ip=1" target="_blank">SEO Web Developer & Consultant</a>
+    </nav>
+    <div class="container">
+        <div class="banner">
+            <img src="https://lh3.googleusercontent.com/p/AF1QipOk-JacP9fFyEboXSqcwSnAt5lcQ6NjPywHmXwl=s1360-w1360-h1020" alt="Snow" style="width:100%;">
+        </div>
+        <section id="about">
+            <h2>About Mohammad Aminul Islam:</h2>
+            <p>
+                Mohammad Aminul Islam, commonly known as Amin and recognized by the username aminbiography, is a testament to the power of passion and expertise in shaping one's journey. Raised amidst the tranquil beauty of Matta, Manikganj, Dhaka, Bangladesh, Amin's early years were marked by a thirst for knowledge and a drive for excellence. Born into a family where his father, Mohammad Hafizul Islam, was initially a government service holder and then a businessman, and his mother, Nurjahan Begum, was a government service holder in the education sector, Amin's upbringing was steeped in curiosity and resilience.
+                <br><br>
+                His educational odyssey commenced at Matta Govt Primary School, laying the groundwork for his future academic pursuits. Driven by a passion for science, he excelled at Manikganj Govt. High School and Government Debendra College, securing top honors in both Secondary and Higher Secondary School Certificates.
+                <br><br>
+                Amin's quest for knowledge led him to Jagannath University, where he pursued a Bachelor of Science in Chemistry, alongside additional studies in Physics, Mathematical Sciences, and English. Despite facing challenges, his dedication remained unwavering. Furthering his specialization, he embarked on postgraduate studies at Jahangirnagar University, earning an MSc in Applied Physics and Electronics. His innovative thesis on 'Ultrafast or Short Laser Processing for Advanced Applications,' which included a JavaScript web application, showcased his prowess and earned him accolades, with a CGPA of 3.83 out of 4.
+                <br><br>
+                Professionally, Amin's journey traversed diverse terrains, from Incepta Pharmaceuticals Limited to <a href="https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LDYqL8nLTjEzYLRSNagwNjc1TTa3MExOTDSzSEo2tjKoMLJIS0s2MTBNNUkySEkztvTizEzJz1EoTyxLBQBjFhMf&q=idol+wave&oq=ido&gs_lcrp=EgZjaHJvbWUqEggBEC4YQxivARjHARiABBiKBTIGCAAQRRg5MhIIARAuGEMYrwEYxwEYgAQYigUyDwgCEC4YQxjUAhiABBiKBTIPCAMQLhhDGNQCGIAEGIoFMgwIBBAAGEMYgAQYigUyDAgFEAAYQxiABBiKBTIMCAYQABhDGIAEGIoFMgYIBxAFGEDSAQg3MjAwajBqOagCALACAQ&sourceid=chrome&ie=UTF-8" target="_blank"> idol wave,</a> where he contributed significantly as a Data Manager. Currently, he excels as an SEO Web Developer, continuously honing his skills to optimize web applications for search engine visibility.
+                <br><br>
+                Beyond his professional endeavors, Amin finds solace in nature, nurturing his creativity through hiking and photography. His personal philosophy revolves around the transformative potential of technology to empower individuals and communities. Drawing inspiration from tech luminaries, he endeavors to create online experiences that resonate on both functional and emotional levels.
+                <br><br>
+                Despite facing hurdles in the ever-evolving tech landscape, Amin embraces challenges as opportunities for growth, demonstrating resilience and adaptability. His vision extends towards building an online ecosystem that fosters accessibility and connectivity across borders, where technology serves humanity.
+                <br><br>
+                Described by colleagues as meticulous and collaborative, Amin's attention to detail ensures the creation of efficient web solutions that leave a lasting impact. His legacy transcends lines of code, immortalizing stories and capturing the essence of lives through his web applications.
+                <br><br>
+                In the vast digital expanse, Mohammad Aminul Islam stands as a beacon of innovation and expertise, bridging the chasm between imagination and reality. With each click, scroll, and connection, his legacy unfolds, a testament to his unwavering commitment and mastery in the digital realm.  
+            </p>
+        </section>
+        <section id="services">
+            <h2>Services</h2>
+            <div class="service">
+                <h3>Web application Development</h3>
+                <p>Mohammad Aminul Islam is a proficient Web Application Developer specializing in creating dynamic, user-friendly websites with SEO principles. He excels in HTML, CSS, JavaScript, and PHP, ensuring seamless functionality and stunning aesthetics. Proficient with frameworks like React and tools like Git and Adobe Illustrator, he also develops CMS web applications, delivering responsive and high-performance web solutions.</p>
+            </div>
+            <div class="service">
+                <h3>Search Engine Optimization (SEO)</h3>
+                <p>Mohammad Aminul Islam is a seasoned SEO Consultant, adept at enhancing online visibility and driving organic traffic. He excels in keyword research, on-page optimization, and link building, utilizing tools like Google Analytics, SEMrush, and Ahrefs. With a deep understanding of SEO best practices and algorithm updates, he crafts tailored strategies that improve search engine rankings and boost website performance.</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <div class="contact">
+                <p>Interested in working together? Feel free to reach out!</p>
+                <a href="mailto:info.aminbiography@gmail.com">info.aminbiography@gmail.com</a>
+            </div>
+            <form id="contactForm" onsubmit="submitForm(event)">
+                <input type="text" name="name" placeholder="Your Name">
+                <input type="text" name="email" placeholder="Your Email">
+                <textarea name="message" placeholder="Your Message"></textarea>
+                <input type="text" name="website" placeholder="Your Website (optional)">
+                <input type="submit" value="Submit">
+                <input type="button" value="Refresh" onclick="window.location.reload();">
+            </form>
+            <div class="social">
+                <h3>Connect with Me</h3>
+                <a href="https://github.com/aminbiography" target="_blank">GitHub</a>
+                <a href="https://www.linkedin.com/in/aminbiography/" target="_blank">LinkedIn</a>
+                <a href="https://x.com/aminbiography" target="_blank">Twitter</a>
+                <a href="https://www.facebook.com/aminbiography/" target="_blank">Facebook</a>
+                <a href="https://www.reddit.com/user/aminbiography/" target="_blank">Reddit</a>
+                <a href="https://www.instagram.com/aminbiography/" target="_blank">Instagram</a>
+                <a href="https://www.youtube.com/channel/UCjx169gDU9CKEzd25iS4hSw/featured" target="_blank">YouTube</a>
+                <a href="https://www.threads.net/@aminbiography" target="_blank">Threads</a>
+                <a href="https://www.pinterest.com/aminbiography/" target="_blank">Pinterest</a>
+                <a href="https://www.google.com/search?q=Mohammad+Aminul+Islam+@+aminbiography&stick=H4sIAAAAAAAA_-NgU1I1qDA2NzVNM7UwTDI2MEw1Mje2MqgwSjGzME9KsjS0SEpKSU5JW8Sq6pufkZibm5ii4JibmVeao-BZnJOYq-CgkAjkJmXmpxclFmRUAgAUuD0OUQAAAA&hl=en&mat=CZehwXZjLqgTElcBeenfiE0KU-tH_FP0BVwpvJbcGOUNcSOqhzVdxLEAD9nNnSiyPcz-MyL6oEg_sgslqFtsRo4vXYLPuh2dr92A4mHgjc6fozCIf9H3LTSb-CLHWAd4HM4&authuser=0" target="_blank">Google</a>
+            </div>
+            <div id="alertMessage" class="alert"></div>
+        </section>
+        <section class="library" id="libraryofamin">
+            <!-- header area start -->
+    <div class="header">
+        <h1>{ library of amin } <br> [ 18-05-2024 ]</h1>
+    </div>
+    <!-- header area end -->
+
+    <!-- ---------- row area 01 start ------------>
+    <div class="row">
+        <!-- sub header area start -->
+        <div class="col-09">
+            <div class="sub-header">
+                <h2>( coding )</h2>
+            </div>
+        </div>
+        <div class="col-03">
+            <div class="sub-header">
+                <h2>( seo )</h2>
+            </div>
+        </div>
+        <!-- sub header area end -->
+    </div>
+    <!-- ---------- row area 01 end ------------>
+
+    <!-- ---------- row area 02 start ------------>
+    <div class="row">
+        <!-- column area 03 start -->
+        <div class="col-03">
+            <h3 class="heading">web<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_cols" target="_blank">Grid View</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">seo updates<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://www.searchenginejournal.com/10-ways-coding-can-help-your-seo/45402/" target="_blank">Search Engine Journal</a></li>
+                <li><a href="https://www.youtube.com/@SEOSLY" target="_blank">Olga Zarr SEO</a></li>
+                <li><a href="https://www.youtube.com/watch?v=JJfjQh1gIn0" target="_blank">Simplilearn</a></li>
+                <li><a href="https://www.youtube.com/watch?v=0J8JaN76Mrs" target="_blank">WsCube Tech YouTube</a></li>
+            </ul>
+        </div>
+        <!-- column area 03 end -->
+    </div>
+    <!-- ---------- row area 02 end ------------>
+
+    <!-- ---------- row area 03 start ------------>
+    <div class="row">
+        <!-- column area 03 start -->
+        <div class="col-03">
+            <h3 class="heading">web<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">seo jobs<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://www.betterteam.com/" target="_blank">Betterteam Hire</a></li>
+                <li><a href="https://www.indeed.com/" target="_blank">Indeed Job Search</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- column area 03 end -->
+    </div>
+    <!-- ---------- row area 03 end ------------>
+
+    <!-- ---------- row area 04 start ------------>
+    <div class="row">
+        <!-- column area 03 start -->
+        <div class="col-03">
+            <h3 class="heading">svg loading spinner<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://loaders.holasvg.com/" target="_blank">HOLA SVG loading spinner</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web source marquee<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee" target="_blank">marquee different angle</a></li>
+                <li><a href="https://www.geeksforgeeks.org/html-marquee-direction-attribute/" target="_blank">HTML Marquee direction attribute</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web source design<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">seo<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- column area 03 end -->
+    </div>
+    <!-- ---------- row area 04 end ------------>
+
+    <!-- ---------- row area 05 start ------------>
+    <div class="row">
+        <!-- column area 03 start -->
+        <div class="col-03">
+            <h3 class="heading">web source design<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://preview.themeforest.net/item/shivka-personal-portfolio-html-template/full_screen_preview/39337106?_ga=2.40935589.644819572.1694102170-925036731.1694102170" target="_blank">aminbiography jarallax</a></li>
+                <li><a href="https://github.com/alphadev97/Responsive-Animated-Education-Website-with-HTML-CSS-JS?tab=readme-ov-file" target="_blank">aminbiography frontend</a></li>
+                <li><a href="https://preview.themeforest.net/item/market-multipurpose-digital-agency-template/full_screen_preview/21215508?_ga=2.222928795.1833791494.1710270803-875252353.1710270803" target="_blank">idol wave header & sections</a></li>
+                <li><a href="https://www.bootdey.com/snippets/view/white-footer" target="_blank">idol wave footer</a></li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web source design<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://github.com/bedimcode/responsive-navigation-bar" target="_blank">multi dropdown navigation bar</a></li>
+                <li><a href="https://github.com/bedimcode/portfolio-responsive-complete" target="_blank">navigation bar & sections</a></li>
+                <li><a href="https://github.com/bedimcode?tab=repositories" target="_blank">source websites github</a></li>
+                <li><a href="https://github.com/bedimcode/responsive-navbar-with-search-and-login" target="_blank">responsive navbar with search & login</a></li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web source design<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://freefrontend.com/bootstrap-footers/" target="_blank">bootstrap footers</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">seo<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- column area 03 end -->
+    </div>
+    <!-- ---------- row area 05 end ------------>
+
+    <!-- ---------- row area 06 start ------------>
+    <div class="row">
+        <!-- column area 03 start -->
+        <div class="col-03">
+            <h3 class="heading">web source animation<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://freefrontend.com/css-animation-examples/page/2/" target="_blank">100 + animation</a></li>
+                <li><a href="https://plantillashtmlgratis.com/en/categoria/css-code/css-animation/" target="_blank">plantillashtmlgratis css</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web source 3D<br><hr class="hr"></h3>
+            <ul>
+                <li><a href="https://github.com/topics/css-3d" target="_blank">css-3D</a></li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">web source<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- -------------------- -->
+        <div class="col-03">
+            <h3 class="heading">seo<br><hr class="hr"></h3>
+            <ul>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+                <li>abcd efghi</li>
+            </ul>
+        </div>
+        <!-- column area 03 end -->
+    </div>
+    <!-- ---------- row area 06 end ------------>
+    </div>
+    </section>
+    </div>
+    <footer>
+        &copy; 2024 Mohammad Aminul Islam - SEO Web Developer & Consultant
+    </footer>
+    <script>
+        function submitForm(event) {
+            event.preventDefault();
+            var formData = new FormData(document.getElementById('contactForm'));
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                        document.getElementById('alertMessage').innerHTML = 'Your message has been sent!';
+                        document.getElementById('alertMessage').style.display = 'block';
+                    } else {
+                        document.getElementById('alertMessage').innerHTML = 'Oops! Something went wrong. Please try again later.';
+                        document.getElementById('alertMessage').style.display = 'block';
+                    }
+                }
+            };
+            xhr.open('POST', 'your-backend-url-here', true);
+            xhr.send(formData);
+        }
+    </script>
+</body>
+</html>
