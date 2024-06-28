@@ -1,3 +1,7 @@
-Git Live URL:  https://aminbiography.github.io/amin-biography/
+Git Live URL:  
 
-Web Live URL: https://aminbiography.kesug.com/ 
+https://aminbiography.github.io/amin-biography/
+
+Web Live URL: 
+
+https://aminbiography.kesug.com/ 
