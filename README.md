@@ -10,5 +10,3 @@ https://aminbiography.kesug.com/
 
 
 
-
-
