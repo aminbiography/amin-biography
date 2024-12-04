@@ -12,6 +12,3 @@ https://aminbiography.kesug.com/
 
 
 
-
-
-
