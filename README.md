@@ -1,5 +1,5 @@
 <h2>aminbiography:</h2>
-<p>Git Live URL:</p> 
+Git Live URL:
 https://aminbiography.github.io/amin-biography/
 <br>
 Web Live URL: 
