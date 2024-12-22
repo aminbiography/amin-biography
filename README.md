@@ -1,9 +1,7 @@
 <h2>aminbiography:</h2>
-Git Live URL:
+<h4>Git Live URL:</h4>
 https://aminbiography.github.io/amin-biography/
-<br>
-Web Live URL: 
-<br>
+<h4>Web Live URL:</h4> 
 https://aminbiography.kesug.com/ 
 
 **********************************************************************************************************************************************************
