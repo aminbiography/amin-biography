@@ -9,7 +9,7 @@ Web Live URL:
 https://aminbiography.kesug.com/ 
 
 **********************************************************************************************************************************************************
-<h1>Google DOCX Live URLS PDF Download:</h1> 
+<h1>Google DOCX Live URLS & PDF Download:</h1> 
 <br>
 <br>
 OpenAI, Web Applications, Cloud computing, Cybersecurity, and SEO (Search Engine Optimization):
