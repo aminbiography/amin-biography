@@ -148,13 +148,13 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 - **Satellites:**
   Space-based platforms used to collect data for a wide range of applications, including observing celestial bodies, monitoring Earth's environment, and supporting communications and navigation systems.
   
-- **Safelight computing**
-  Safelight computing refers to the use of low-energy, efficient computing systems that process satellite data securely and effectively, often in real-time, while minimizing environmental impact.
+- **Satellite Computing**
+  Satellite Computing refers to the use of low-energy, efficient computing systems that process satellite data securely and effectively, often in real-time, while minimizing environmental impact.
 
 - **Astronomical Data Analysis**
   The study and processing of data collected from telescopes, satellites, and space probes to understand celestial objects and phenomena.
 
-- **AAstrophysics and Cosmology:**
+- **Astrophysics and Cosmology:**
   Data-driven analysis of cosmic phenomena and the fundamental laws of the universe to drive new discoveries and advancements in scientific understanding.
 
 - **Holography for Advanced Visual Applications**  
