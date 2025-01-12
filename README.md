@@ -174,8 +174,8 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 # References for Key Concepts
 
 ## Basic Computer Skills & Fundamentals
-- **[The Elements of Computing Systems](https://www.google.com/books/edition/The_Elements_of_Computing_Systems/4EjGn7I3l1IC)** by Noam Nisan and Shimon Schocken
-- **[Introduction to Computer Science Using Python](https://www.google.com/books/edition/Introduction_to_Computer_Science_Using_Py/lx2M0Rj7jQsC)** by Charles Dierbach
+- **[Computer Science: An Overview](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836)** by J. Glenn Brookshear and Dennis Brylow
+- **[Python Programming: An Introduction to Computer Science](https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752)** by John Zelle
 
 ## Programming & Web Development
 - **[Eloquent JavaScript](https://eloquentjavascript.net/)** by Marijn Haverbeke (Available for free online)
