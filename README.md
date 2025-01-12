@@ -145,6 +145,12 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 - **Synthetic Intelligence and AI Alignment**  
   Research in creating more general and adaptable AI, ensuring alignment with human values and avoiding harmful unintended consequences.
 
+- **Satellites:**
+  Space-based platforms used to collect data for a wide range of applications, including observing celestial bodies, monitoring Earth's environment, and supporting communications and navigation systems.
+  
+- **Safelight computing**
+  Safelight computing refers to the use of low-energy, efficient computing systems that process satellite data securely and effectively, often in real-time, while minimizing environmental impact.
+
 - **Astronomical Data Analysis**
   The study and processing of data collected from telescopes, satellites, and space probes to understand celestial objects and phenomena.
 
