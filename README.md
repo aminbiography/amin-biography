@@ -145,6 +145,12 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 - **Synthetic Intelligence and AI Alignment**  
   Research in creating more general and adaptable AI, ensuring alignment with human values and avoiding harmful unintended consequences.
 
+- **Astronomical Data Analysis**
+  The study and processing of data collected from telescopes, satellites, and space probes to understand celestial objects and phenomena.
+
+- **AAstrophysics and Cosmology:**
+  Data-driven analysis of cosmic phenomena and the fundamental laws of the universe to drive new discoveries and advancements in scientific understanding.
+
 - **Holography for Advanced Visual Applications**  
   The use of holographic technology to create 3D images, impacting fields like medical imaging, entertainment, and visualization.
 
