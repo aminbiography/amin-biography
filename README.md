@@ -166,5 +166,5 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 - **Augmented Reality (AR) and Virtual Reality (VR) Systems**  
   Examining immersive technologies that blend or replace the real world with virtual environments for gaming, education, and training.
 
-- **Advanced Data Engineering Pipelines**  
+- **Advanced Data Engineering**  
   Techniques for building scalable, efficient pipelines that process and transform large amounts of data for analytics and machine learning.
