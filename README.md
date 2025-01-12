@@ -175,7 +175,8 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 
 ## Basic Computer Skills & Fundamentals
 - **[Computer Science: An Overview](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836)** by J. Glenn Brookshear and Dennis Brylow
-- **[Python Programming: An Introduction to Computer Science](https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282752)** by John Zelle
+- **[Computer Science: An Overview](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836)** by J. Glenn Brookshear and Dennis Brylow
+- **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)** by Al Sweigart
 
 ## Programming & Web Development
 - **[Eloquent JavaScript](https://eloquentjavascript.net/)** by Marijn Haverbeke (Available for free online)
