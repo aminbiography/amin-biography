@@ -174,43 +174,42 @@ A comprehensive list of topics in the evolving cyber world, spanning from founda
 # References for Key Concepts
 
 ## Basic Computer Skills & Fundamentals
-- **[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Principles-Engineering/dp/0262640686)** by Noam Nisan and Shimon Schocken
-- **[Introduction to Computer Science Using Python](https://www.amazon.com/Introduction-Computer-Science-Using-Python/dp/007337633X)** by Charles Dierbach
+- **[The Elements of Computing Systems](https://www.google.com/books/edition/The_Elements_of_Computing_Systems/4EjGn7I3l1IC)** by Noam Nisan and Shimon Schocken
+- **[Introduction to Computer Science Using Python](https://www.google.com/books/edition/Introduction_to_Computer_Science_Using_Py/lx2M0Rj7jQsC)** by Charles Dierbach
 
 ## Programming & Web Development
-- **[Eloquent JavaScript](https://eloquentjavascript.net/)** by Marijn Haverbeke
+- **[Eloquent JavaScript](https://eloquentjavascript.net/)** by Marijn Haverbeke (Available for free online)
 - **[Python Crash Course](https://nostarch.com/pythoncrashcourse2e)** by Eric Matthes
-- **[PHP & MySQL: Server-side Web Development](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/0134301840)** by Luke Welling and Laura Thomson
+- **[PHP & MySQL: Server-side Web Development](https://www.pearson.com/store/p/php-and-mysql-server-side-web-development/P100000600132)** by Luke Welling and Laura Thomson
 
 ## Algorithms & Data Structures
-- **[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)** by Thomas H. Cormen et al.
-- **[Data Structures and Algorithms in Python](https://www.amazon.com/Data-Structures-Algorithms-Python-Edition/dp/1118290275)** by Michael T. Goodrich
+- **[Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)** by Thomas H. Cormen et al.
+- **[Data Structures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)** by Michael T. Goodrich
 
 ## Cloud & Cybersecurity
-- **[Cloud Computing: Concepts, Technology & Architecture](https://www.amazon.com/Cloud-Computing-Technology-Architecture-2nd/dp/0133387529)** by Thomas Erl
-- **[Computer Security: Principles and Practice](https://www.amazon.com/Computer-Security-Principles-Practice-3rd/dp/0134085047)** by William Stallings and Lawrie Brown
+- **[Cloud Computing: Concepts, Technology & Architecture](https://www.safaribooksonline.com/library/view/cloud-computing-concepts/9780133387520/)** by Thomas Erl (Available on Safari Books Online)
+- **[Computer Security: Principles and Practice](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458)** by William Stallings and Lawrie Brown
 
 ## Machine Learning & Data Visualization
 - **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** by Aurélien Géron
-- **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)** by Jake VanderPlas
+- **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)** by Jake VanderPlas (Available online)
 
 ## Quantum Computing & Cryptography
-- **[Quantum Computation and Quantum Information](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)** by Michael A. Nielsen and Isaac L. Chuang
-- **[Quantum Cryptography](https://www.amazon.com/Quantum-Cryptography-Artur-Ekert/dp/0521435993)** by Artur Ekert
+- **[Quantum Computation and Quantum Information](https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/EA1DA6C1C587663618831504A56B9B9)** by Michael A. Nielsen and Isaac L. Chuang
+- **[Quantum Cryptography](https://www.cambridge.org/core/books/quantum-cryptography/053F7D4006B320205FCDF16C5674E38E)** by Artur Ekert
 
 ## Satellite & Astronomical Data
-- **[Introduction to Modern Astrophysics](https://www.amazon.com/Introduction-Modern-Astrophysics-Bradley-Carroll/dp/1108420976)** by Bradley W. Carroll and Dale A. Ostlie
+- **[Introduction to Modern Astrophysics](https://www.cambridge.org/core/books/introduction-to-modern-astrophysics/B8D679F23B1577F44F69FF14A3C74B57)** by Bradley W. Carroll and Dale A. Ostlie
 - **[Data Science for Astrophysics](https://www.cambridge.org/core/books/data-science-for-astrophysics/FCBD8721F23384E62405C0141F6813A3)** by J. L. P. Trujillo et al.
 
 ## IoT & Edge Computing
-- **[Internet of Things: A Hands-on Approach](https://www.amazon.com/Internet-Things-Hands-Arshdeep-Bahga/dp/0996025514)** by Arshdeep Bahga and Vijay Madisetti
-- **[Edge Computing: A Primer](https://www.amazon.com/Edge-Computing-Primer-Mahadev-Satyanand/dp/1484237306)** by Mahadev Satyanand and Pradeep Kumar
+- **[Internet of Things: A Hands-on Approach](https://www.springer.com/gp/book/9780996025515)** by Arshdeep Bahga and Vijay Madisetti
+- **[Edge Computing: A Primer](https://www.springer.com/gp/book/9781484237307)** by Mahadev Satyanand and Pradeep Kumar
 
 ## Artificial Intelligence & Robotics
-- **[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)** by Stuart Russell and Peter Norvig
-- **[Robotics: Modelling, Planning and Control](https://www.amazon.com/Robotics-Modeling-Planning-Control-3rd/dp/1846286419)** by Bruno Siciliano and Lorenzo Sciavicco
+- **[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)** by Stuart Russell and Peter Norvig (Official site)
+- **[Robotics: Modelling, Planning and Control](https://www.springer.com/gp/book/9781846286410)** by Bruno Siciliano and Lorenzo Sciavicco
 
 ## Advanced Topics in Quantum & Machine Learning
-- **[Quantum Machine Learning](https://www.amazon.com/Quantum-Machine-Learning-Peter-Wittek/dp/0128040637)** by Peter Wittek
-- **[Deep Learning](https://www.deeplearningbook.org/)** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-
+- **[Quantum Machine Learning](https://www.elsevier.com/books/quantum-machine-learning/wittek/978-0-12-804063-7)** by Peter Wittek
+- **[Deep Learning](https://www.deeplearningbook.org/)** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (Official site)
