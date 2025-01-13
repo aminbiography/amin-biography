@@ -142,25 +142,25 @@ https://aminbiography.kesug.com/
 - **Computational Complexity Theory**  
   The study of the computational cost (time and space) of solving problems and the classification of problems based on their difficulty.
   
-- **Advanced Data Engineering**
+- **Advanced Data Engineering**  
   Techniques for building scalable, efficient pipelines that process and transform large amounts of data for analytics and machine learning.
 
-- **Satellites**
+- **Satellites**  
   Space-based platforms used to collect data for a wide range of applications, including observing celestial bodies, monitoring Earth's environment, and supporting communications and navigation systems.
   
-- **Satellite Computing**
+- **Satellite Computing**  
   Leverages satellite networks for secure, global data transmission and processing, ensuring enhanced encryption and protection for sensitive information.
 
-- **Astronomical Data Analysis**
+- **Astronomical Data Analysis**  
   The study and processing of data collected from telescopes, satellites, and space probes to understand celestial objects and phenomena.
 
-- **Astrophysics and Cosmology**
+- **Astrophysics and Cosmology**  
   Data-driven analysis of cosmic phenomena and the fundamental laws of the universe to drive new discoveries and advancements in scientific understanding.
 
-- **Holography for Advanced Visual Applications**
+- **Holography for Advanced Visual Applications**  
   The use of holographic technology to create 3D images, impacting fields like medical imaging, entertainment, and visualization.
 
-- **Laptop/Mobile Projectors for Visual Communication**
+- **Laptop/Mobile Projectors for Visual Communication**  
   Exploring the integration of portable projectors with laptops and mobile devices for presentations, learning, and visual communication.
 
 - **Augmented Reality (AR) and Virtual Reality (VR) Systems**  
