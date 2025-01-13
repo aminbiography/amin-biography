@@ -166,7 +166,7 @@ https://aminbiography.kesug.com/
 - **Augmented Reality (AR) and Virtual Reality (VR) Systems**  
   Examining immersive technologies that blend or replace the real world with virtual environments for gaming, education, and training.
 
-  - **Synthetic Intelligence and AI Alignment**  
+- **Synthetic Intelligence and AI Alignment**  
   Research in creating more general and adaptable AI, ensuring alignment with human values and avoiding harmful unintended consequences.
 
 *************************************************************************************************************
