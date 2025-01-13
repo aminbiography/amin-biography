@@ -25,7 +25,7 @@ https://aminbiography.kesug.com/
 - **Introduction to HTML and CSS**  
   Fundamentals of web development, covering the structure (HTML) and design (CSS) of websites.
 
-  - **JavaScript for Web Interactivity**  
+- **JavaScript for Web Interactivity**  
   Programming language used to create dynamic, interactive features in websites, such as form validation, animations, and more.
 
 - **Python for Beginners**  
