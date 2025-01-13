@@ -145,7 +145,7 @@ https://aminbiography.kesug.com/
 - **Advanced Data Engineering**  
   Techniques for building scalable, efficient pipelines that process and transform large amounts of data for analytics and machine learning.
 
-- **Satellites:**
+- **Satellites**
   Space-based platforms used to collect data for a wide range of applications, including observing celestial bodies, monitoring Earth's environment, and supporting communications and navigation systems.
   
 - **Satellite Computing**
@@ -154,7 +154,7 @@ https://aminbiography.kesug.com/
 - **Astronomical Data Analysis**
   The study and processing of data collected from telescopes, satellites, and space probes to understand celestial objects and phenomena.
 
-- **Astrophysics and Cosmology:**
+- **Astrophysics and Cosmology**
   Data-driven analysis of cosmic phenomena and the fundamental laws of the universe to drive new discoveries and advancements in scientific understanding.
 
 - **Holography for Advanced Visual Applications**  
