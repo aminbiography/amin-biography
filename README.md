@@ -1,9 +1,9 @@
-<h2>aminbiography:</h2>
-<h4>Git Live URL:</h4>
+# aminbiography:
+#### Git Live URL:
 https://aminbiography.github.io/amin-biography/
-<h4>Web Live URL:</h4> 
+#### Web Live URL:
 https://aminbiography.kesug.com/ 
-<br><br>
+
 ************************************************************************************************************
 
 # Evolving Cyber World Topics
