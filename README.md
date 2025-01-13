@@ -25,11 +25,11 @@ https://aminbiography.kesug.com/
 - **Introduction to HTML and CSS**  
   Fundamentals of web development, covering the structure (HTML) and design (CSS) of websites.
 
-- **Python for Beginners**  
-  A beginner-friendly programming language used for web development, data analysis, and general-purpose programming.
-
-- **JavaScript for Web Interactivity**  
+  - **JavaScript for Web Interactivity**  
   Programming language used to create dynamic, interactive features in websites, such as form validation, animations, and more.
+
+- **Python for Beginners**  
+  A beginner-friendly programming language used for web development, data analysis, Cybersecurity and general-purpose programming.
 
 - **PHP for Web Development**  
   Server-side scripting language used to create interactive websites and web applications, often paired with databases.
@@ -141,15 +141,15 @@ https://aminbiography.kesug.com/
 
 - **Computational Complexity Theory**  
   The study of the computational cost (time and space) of solving problems and the classification of problems based on their difficulty.
-
-- **Synthetic Intelligence and AI Alignment**  
-  Research in creating more general and adaptable AI, ensuring alignment with human values and avoiding harmful unintended consequences.
+  
+- **Advanced Data Engineering**  
+  Techniques for building scalable, efficient pipelines that process and transform large amounts of data for analytics and machine learning.
 
 - **Satellites:**
   Space-based platforms used to collect data for a wide range of applications, including observing celestial bodies, monitoring Earth's environment, and supporting communications and navigation systems.
   
 - **Satellite Computing**
-  Satellite Computing refers to the use of low-energy, efficient computing systems that process satellite data securely and effectively, often in real-time, while minimizing environmental impact.
+  Leverages satellite networks for secure, global data transmission and processing, ensuring enhanced encryption and protection for sensitive information.
 
 - **Astronomical Data Analysis**
   The study and processing of data collected from telescopes, satellites, and space probes to understand celestial objects and phenomena.
@@ -166,8 +166,8 @@ https://aminbiography.kesug.com/
 - **Augmented Reality (AR) and Virtual Reality (VR) Systems**  
   Examining immersive technologies that blend or replace the real world with virtual environments for gaming, education, and training.
 
-- **Advanced Data Engineering**  
-  Techniques for building scalable, efficient pipelines that process and transform large amounts of data for analytics and machine learning.
+  - **Synthetic Intelligence and AI Alignment**  
+  Research in creating more general and adaptable AI, ensuring alignment with human values and avoiding harmful unintended consequences.
 
 *************************************************************************************************************
 
