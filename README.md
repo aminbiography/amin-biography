@@ -8,7 +8,7 @@ https://aminbiography.kesug.com/
 
 # Evolving Cyber World Topics
 
-A comprehensive list of topics in the evolving cyber world, spanning from foundational knowledge to advanced technologies. Individuals can choose specific topics based on their interests and career aspirations.
+*A comprehensive list of topics in the evolving cyber world, spanning from foundational knowledge to advanced technologies.*
 
 - **Basic Computer Skills**  
   Understanding the fundamental operations of computers and how to use them effectively in daily tasks.
