@@ -169,6 +169,9 @@ https://aminbiography.kesug.com/
 - **Synthetic Intelligence and AI Alignment**  
   Research in creating more general and adaptable AI, ensuring alignment with human values and avoiding harmful unintended consequences.
 
+- **IDCert Cloud**  
+Is a secure platform that certifies the existence of your identity documents in the cloud without revealing them. It allows you to prove the submission of your ID, passport, and other records to third parties without sharing the actual files.
+
 *************************************************************************************************************
 
 # References for Key Concepts
