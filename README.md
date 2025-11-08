@@ -183,7 +183,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 * [**Introduction to Computer Science and Programming Using Python**](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — *MIT edX*
 * [**Computer Science 101**](https://online.stanford.edu/courses/cs101-introduction-computer-science) — *Stanford Online* (Foundations of computing for all learners)
 * [**How Computers Really Work**](https://nostarch.com/howcomputerswork) — *Matthew Justice* (No Starch Press, 2022)
-* [**Google for Education **](https://edu.google.com/)] — *Learning through technology and collaboration for students and educators worldwide* (Google, 2025)
+* [**Google for Education**](https://edu.google.com/)] — *Learning through technology and collaboration for students and educators worldwide* (Google, 2025)
 
 ---
 
