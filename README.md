@@ -176,53 +176,6 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 # References for Key Concepts
 
-## Basic Computer Skills & Fundamentals
-- **[Computer Science: An Overview](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836)** by J. Glenn Brookshear and Dennis Brylow
-- **[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)** by MIT
-
-## Programming & Web Development
-- **[Eloquent JavaScript](https://eloquentjavascript.net/)** by Marijn Haverbeke (Available for free online)
-- **[Python Crash Course](https://nostarch.com/pythoncrashcourse2e)** by Eric Matthes
-- **[PHP & MySQL: Server-side Web Development](https://www.pearson.com/store/p/php-and-mysql-server-side-web-development/P100000600132)** by Luke Welling and Laura Thomson
-
-## Algorithms & Data Structures
-- **[Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)** by Thomas H. Cormen et al.
-- **[Data Structures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python-p-9781118290279)** by Michael T. Goodrich
-
-## Cloud & Cybersecurity
-- **[Cloud Computing: Concepts, Technology & Architecture](https://www.safaribooksonline.com/library/view/cloud-computing-concepts/9780133387520/)** by Thomas Erl (Available on Safari Books Online)
-- **[Computer Security: Principles and Practice](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458)** by William Stallings and Lawrie Brown
-
-## Machine Learning & Data Visualization
-- **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)** by Aurélien Géron
-- **[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)** by Jake VanderPlas (Available online)
-
-## Quantum Computing & Cryptography
-- **[Quantum Computation and Quantum Information](https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/EA1DA6C1C587663618831504A56B9B9)** by Michael A. Nielsen and Isaac L. Chuang
-- **[Quantum Cryptography](https://www.cambridge.org/core/books/quantum-cryptography/053F7D4006B320205FCDF16C5674E38E)** by Artur Ekert
-
-## Satellite & Astronomical Data
-- **[Introduction to Modern Astrophysics](https://www.cambridge.org/core/books/introduction-to-modern-astrophysics/B8D679F23B1577F44F69FF14A3C74B57)** by Bradley W. Carroll and Dale A. Ostlie
-- **[Data Science for Astrophysics](https://www.cambridge.org/core/books/data-science-for-astrophysics/FCBD8721F23384E62405C0141F6813A3)** by J. L. P. Trujillo et al.
-
-## IoT & Edge Computing
-- **[Internet of Things: A Hands-on Approach](https://www.springer.com/gp/book/9780996025515)** by Arshdeep Bahga and Vijay Madisetti
-- **[Edge Computing: A Primer](https://www.springer.com/gp/book/9781484237307)** by Mahadev Satyanand and Pradeep Kumar
-
-## Artificial Intelligence & Robotics
-- **[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)** by Stuart Russell and Peter Norvig (Official site)
-- **[Robotics: Modelling, Planning and Control](https://www.springer.com/gp/book/9781846286410)** by Bruno Siciliano and Lorenzo Sciavicco
-
-## Advanced Topics in Quantum & Machine Learning
-- **[Quantum Machine Learning](https://www.elsevier.com/books/quantum-machine-learning/wittek/978-0-12-804063-7)** by Peter Wittek
-- **[Deep Learning](https://www.deeplearningbook.org/)** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (Official site)
-
-
-
-
-
-
-
 
 | **Domain**                               | **Modern Reference**                                                                                                                                                                                                                                                                                                     | **Source**                           |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
