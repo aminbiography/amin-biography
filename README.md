@@ -177,20 +177,68 @@ Is a secure platform that certifies the existence of your identity documents in 
 # References for Key Concepts
 
 
-| **Domain**                               | **Modern Reference**                                                                                                                                                                                                                                                                                                                                           | **Source**                                         |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **Basic Computer Skills & Fundamentals** | - [Computer Science: An Overview](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836) — *J. Glenn Brookshear & Dennis Brylow*<br> - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — *MIT (edX)*                                       | Pearson / MIT edX                                  |
-| **Computer Science Fundamentals**        | [Computer Science 101 – Stanford Online](https://online.stanford.edu/courses/cs101-introduction-computer-science)                                                                                                                                                                                                                                              | Stanford University                                |
-| **Python & Data Science**                | [Python for Everybody (Specialization)](https://www.coursera.org/specializations/python)                                                                                                                                                                                                                                                                       | University of Michigan / Coursera                  |
-| **AI & Machine Learning**                | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)                                                                                                                                                                                                                                                                   | Google                                             |
-| **Cybersecurity**                        | [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)                                                                                                                                                                                                                                       | Google / Coursera                                  |
-| **Cloud Computing**                      | - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/) — *Cloud foundations from AWS*<br> - [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) — *Introduction to Microsoft’s cloud platform and services*                               | Amazon Web Services / Microsoft Learn              |
-| **Quantum Computing**                    | [Quantum Computing Fundamentals](https://online.stanford.edu/courses/ee379q-quantum-computing-fundamentals)                                                                                                                                                                                                                                                    | Stanford Online                                    |
-| **Astronomical Data Analysis**           | - [Astrophysics Data System (ADS)](https://ui.adsabs.harvard.edu/) — *NASA’s digital library for space and astrophysics research*<br> - [NASA Open Science 101](https://nasa.github.io/Transform-to-Open-Science/open-science-101/intro/) — *Data analysis and reproducible research in astrophysics*                                                          | NASA / Harvard-Smithsonian Center for Astrophysics |
-| **Astrophysics & Cosmology**             | - [Astrophysics: Exploring Exoplanets](https://www.edx.org/learn/astrophysics/australian-national-university-astrophysics-exploring-exoplanets) — *Exoplanetary and cosmic study using data analysis*<br> - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) — *Comprehensive database of confirmed exoplanets and astrophysical datasets* | edX / NASA / Caltech                               |
-| **AI Ethics & Alignment**                | [CS324: Large Language Models](https://web.stanford.edu/class/cs324/)                                                                                                                                                                                                                                                                                          | Stanford University                                |
-| **Data Visualization**                   | [Data Visualization with Python](https://learn.microsoft.com/en-us/training/paths/data-visualization-python/)                                                                                                                                                                                                                                                  | Microsoft Learn                                    |
-| **Cloud DevOps**                         | [Google Cloud DevOps Engineer Path](https://cloud.google.com/learn/certification/devops-engineer)                                                                                                                                                                                                                                                              | Google Cloud                                       |
+### Fundamentals
+
+* [**Computer Science: An Overview**](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836) — *J. Glenn Brookshear & Dennis Brylow* (Pearson, 2023)
+* [**Introduction to Computer Science and Programming Using Python**](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — *MIT edX*
+* [**Computer Science 101**](https://online.stanford.edu/courses/cs101-introduction-computer-science) — *Stanford Online* (Foundations of computing for all learners)
+* [**How Computers Really Work**](https://nostarch.com/howcomputerswork) — *Matthew Justice* (No Starch Press, 2022)
+
+---
+
+### Programming & Web Development
+
+* [**Eloquent JavaScript (4th Ed.)**](https://eloquentjavascript.net/) — *Marijn Haverbeke* (2024)
+* [**Python Crash Course (3rd Ed.)**](https://nostarch.com/python-crash-course-3rd-edition) — *Eric Matthes* (2023)
+* [**PHP & MySQL: Server-Side Web Development (2nd Ed.)**](https://www.pearson.com/store/p/php-and-mysql-server-side-web-development/P100000600132) — *Luke Welling & Laura Thomson* (2022)
+* [**HTML & CSS: Design and Build Websites**](https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188) — *Jon Duckett* (2023)
+
+---
+
+### Algorithms & Systems
+
+* [**Introduction to Algorithms (4th Ed.)**](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) — *Cormen et al.* (MIT Press, 2022)
+* [**Algorithm Design Manual (3rd Ed.)**](https://www.springer.com/gp/book/9783030542559) — *Steven S. Skiena* (Springer, 2020)
+* [**Computer Networking: A Top-Down Approach (8th Ed.)**](https://www.pearson.com/en-us/subject-catalog/p/computer-networking-a-top-down-approach/P100002431259) — *Kurose & Ross* (Pearson, 2022)
+
+---
+
+### Cybersecurity & Cloud
+
+* [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/professional-certificates/google-cybersecurity) — *Google / Coursera* (2024)
+* [**Computer Security: Principles and Practice (5th Ed.)**](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458) — *William Stallings & Lawrie Brown* (2024)
+* [**Cloud Computing: Concepts, Technology & Architecture**](https://www.informit.com/store/cloud-computing-concepts-technology-and-architecture-9780133387520) — *Thomas Erl* (2023)
+* [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) — *Microsoft Learn*
+* [**AWS Cloud Practitioner Essentials**](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/) — *Amazon Web Services*
+
+---
+
+### AI & Machine Learning
+
+* [**Artificial Intelligence: A Modern Approach (4th Ed.)**](http://aima.cs.berkeley.edu/) — *Russell & Norvig* (2022)
+* [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Ed.)**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125974/) — *Aurélien Géron* (2023)
+* [**Deep Learning**](https://www.deeplearningbook.org/) — *Ian Goodfellow, Yoshua Bengio & Aaron Courville* (MIT Press, 2023)
+* [**CS324: Large Language Models**](https://web.stanford.edu/class/cs324/) — *Stanford University* (Latest Stanford AI course on LLMs and alignment)
+* [**Python Data Science Handbook**](https://jakevdp.github.io/PythonDataScienceHandbook/) — *Jake VanderPlas* (2022)
+
+---
+
+### Quantum Computing & Space Science
+
+* [**Quantum Computation and Quantum Information (20th Anniv. Ed.)**](https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/EA1DA6C1C587663618831504A56B9B9) — *Nielsen & Chuang* (Cambridge, 2023)
+* [**Understanding Cryptography**](https://link.springer.com/book/10.1007/978-3-642-04101-3) — *Christof Paar & Jan Pelzl* (Springer, 2022)
+* [**NASA Open Science 101**](https://science.nasa.gov/open-science/training/) — *NASA Training Portal* (2024)
+* [**NASA Exoplanet Archive**](https://exoplanetarchive.ipac.caltech.edu/) — *NASA / Caltech*
+* [**Introduction to Modern Astrophysics (2nd Ed.)**](https://www.cambridge.org/highereducation/books/introduction-to-modern-astrophysics/1EAD67F37D7596E6D9BF989E77C43764) — *Carroll & Ostlie* (Cambridge, 2023)
+
+---
+
+### Robotics, IoT & Emerging Tech
+
+* [**Modern Robotics: Mechanics, Planning & Control**](https://modernrobotics.northwestern.edu/) — *Lynch & Park* (Cambridge, 2023)
+* [**Cyber-Physical Systems: Design and Application**](https://mitpress.mit.edu/9780262044967/cyber-physical-systems/) — *Rajeev Alur* (MIT Press, 2021)
+* [**Edge AI: On-Device Intelligence for IoT**](https://link.springer.com/book/10.1007/978-3-030-66745-7) — *Anis Koubaa* (Springer, 2023)
+* [**Blockchain Revolution (Updated Edition)**](https://www.penguinrandomhouse.com/books/551483/blockchain-revolution-by-don-tapscott-and-alex-tapscott/) — *Don & Alex Tapscott* (2023)
 
 ---
 
