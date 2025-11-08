@@ -176,9 +176,9 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 # References for Key Concepts
 
-
 ### Fundamentals
 
+* [**Stanford University – School of Engineering**](https://engineering.stanford.edu/) — *Leading global institution for computer science, AI, and technology innovation* (Stanford University, 2025)
 * [**Computer Science: An Overview**](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836) — *J. Glenn Brookshear & Dennis Brylow* (Pearson, 2023)
 * [**Introduction to Computer Science and Programming Using Python**](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — *MIT edX*
 * [**Computer Science 101**](https://online.stanford.edu/courses/cs101-introduction-computer-science) — *Stanford Online* (Foundations of computing for all learners)
