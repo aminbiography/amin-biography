@@ -183,6 +183,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 * [**Introduction to Computer Science and Programming Using Python**](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — *MIT edX*
 * [**Computer Science 101**](https://online.stanford.edu/courses/cs101-introduction-computer-science) — *Stanford Online* (Foundations of computing for all learners)
 * [**How Computers Really Work**](https://nostarch.com/howcomputerswork) — *Matthew Justice* (No Starch Press, 2022)
+* [**Google for Education **](https://edu.google.com/) — *Empowering learning through technology and collaboration for students and educators worldwide.* (Google, 2025)
 
 ---
 
@@ -205,7 +206,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ### Cybersecurity & Cloud
 
-* [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/professional-certificates/google-cybersecurity) — *Google / Coursera* (2024)
+* [**Grow with Google / Certificates**](https://grow.google/certificates/) — *Google / Coursera* (2025)
 * [**Computer Security: Principles and Practice (5th Ed.)**](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458) — *William Stallings & Lawrie Brown* (2024)
 * [**Cloud Computing: Concepts, Technology & Architecture**](https://www.informit.com/store/cloud-computing-concepts-technology-and-architecture-9780133387520) — *Thomas Erl* (2023)
 * [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) — *Microsoft Learn*
