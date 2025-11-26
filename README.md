@@ -228,7 +228,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ### **Cybersecurity, Ethical Hacking, Cryptanalysis**
 
-* [**Grow with Google**]([https://cloud.google.com/training/cloud-digital-leader](https://grow.google/)) — *Google Learning Platform*
+* [**Grow with Google**](https://grow.google/) — *Google Learning Platform*
 * [**Computer Security: Principles and Practice (5th Ed.)**](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458) — *Stallings & Brown* (2024)
 * [**The Web Application Hacker’s Handbook**](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%3A+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472) — *Stuttard & Pinto* (Wiley, 2021)
 * [**Understanding Cryptography**](https://link.springer.com/book/10.1007/978-3-642-04101-3) — *Paar & Pelzl* (Springer, 2022)
