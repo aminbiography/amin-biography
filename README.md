@@ -228,6 +228,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ### **Cybersecurity, Ethical Hacking, Cryptanalysis**
 
+* [**Grow with Google**]([https://cloud.google.com/training/cloud-digital-leader](https://grow.google/)) — *Google Learning Platform*
 * [**Computer Security: Principles and Practice (5th Ed.)**](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458) — *Stallings & Brown* (2024)
 * [**The Web Application Hacker’s Handbook**](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%3A+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472) — *Stuttard & Pinto* (Wiley, 2021)
 * [**Understanding Cryptography**](https://link.springer.com/book/10.1007/978-3-642-04101-3) — *Paar & Pelzl* (Springer, 2022)
@@ -235,12 +236,12 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-### **Cloud Computing (AWS, Azure, GCP)**
+### **Cloud Computing (GCP, AWS, Azure)**
 
+* [**Google Cloud Digital Leader Training**](https://cloud.google.com/learn?utm_source=PMAX&utm_medium=PMAX&utm_campaign=FY24-H2-apac-gcp-DR-campaign-ROA&utm_content=roa-en&gclsrc=aw.ds&&https://ad.doubleclick.net/ddm/trackclk/N5295.276639.GOOGLEADWORDS/B26943865.344601469;dc_trk_aid=535898303;dc_trk_cid=163098484;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=&gad_source=1&gad_campaignid=22050456604&gclid=EAIaIQobChMI9IHj68iPkQMVZ8k8Ah11WxCoEAAYASADEgLB8vD_BwE) — *Google Cloud*
+* [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) — *Microsoft Learn*
 * [**Cloud Computing: Concepts, Technology & Architecture**](https://www.informit.com/store/cloud-computing-concepts-technology-and-architecture-9780133387520) — *Thomas Erl* (2023)
 * [**AWS Cloud Practitioner Essentials**](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/) — *Amazon Web Services*
-* [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) — *Microsoft Learn*
-* [**Google Cloud Digital Leader Training**](https://cloud.google.com/training/cloud-digital-leader) — *Google Cloud*
 
 ---
 
