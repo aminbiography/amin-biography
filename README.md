@@ -178,7 +178,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Fundamentals & Essential Computing**
+### **Fundamentals & Essential Computing**
 
 * [**The Art of Computer Programming (Vol. 1–4)**](https://www.pearson.com/en-us/subject-catalog/p/art-of-computer-programming/P100001117248) — *Donald E. Knuth* (Stanford University, Addison-Wesley)
 * [**Computer Science: An Overview**](https://www.pearson.com/store/p/computer-science-an-overview/P100000119836) — *Brookshear & Brylow* (Pearson, 2023)
@@ -190,7 +190,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Programming: Scratch, HTML/CSS, JavaScript, Python, PHP, Java**
+### **Programming: Scratch, HTML/CSS, JavaScript, Python, PHP, Java**
 
 * [**Creative Computing — Scratch Curriculum Guide**](https://resources.scratch.mit.edu/www/guides/en/CreativeComputing20141015.pdf) — *Harvard Graduate School of Education*
 * [**HTML & CSS: Design and Build Websites**](https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188) — *Jon Duckett* (Wiley, 2023)
@@ -201,7 +201,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Algorithms & Problem Solving**
+### **Algorithms & Problem Solving**
 
 * [**Introduction to Algorithms (CLRS, 4th Ed.)**](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) — *Cormen, Leiserson, Rivest, Stein* (MIT Press, 2022)
 * [**Algorithm Design Manual (3rd Ed.)**](https://www.springer.com/gp/book/9783030542559) — *Steven Skiena* (Springer, 2020)
@@ -209,7 +209,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Databases: SQL, File Systems, Data Engineering**
+### **Databases: SQL, File Systems, Data Engineering**
 
 * [**Learning SQL (3rd Ed.)**](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/) — *Alan Beaulieu* (O’Reilly, 2020)
 * [**Database System Concepts (7th Ed.)**](https://www.db-book.com/) — *Silberschatz, Korth & Sudarshan* (McGraw-Hill, 2020)
@@ -217,7 +217,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Networking & Communication (TCP/IP, Data Transmission, 5G, Edge)**
+### **Networking & Communication (TCP/IP, Data Transmission, 5G, Edge)**
 
 * [**Computer Networking: A Top-Down Approach (8th Ed.)**](https://www.pearson.com/en-us/subject-catalog/p/computer-networking-a-top-down-approach/P100002431259) — *Kurose & Ross* (2022)
 * [**Computer Networks (6th Ed.)**](https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P100001117130) — *Tanenbaum & Wetherall* (2021)
@@ -226,7 +226,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Cybersecurity, Ethical Hacking, Cryptanalysis**
+### **Cybersecurity, Ethical Hacking, Cryptanalysis**
 
 * [**Computer Security: Principles and Practice (5th Ed.)**](https://www.pearson.com/store/p/computer-security-principles-and-practice/P100000497458) — *Stallings & Brown* (2024)
 * [**The Web Application Hacker’s Handbook**](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%3A+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472) — *Stuttard & Pinto* (Wiley, 2021)
@@ -235,7 +235,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Cloud Computing (AWS, Azure, GCP)**
+### **Cloud Computing (AWS, Azure, GCP)**
 
 * [**Cloud Computing: Concepts, Technology & Architecture**](https://www.informit.com/store/cloud-computing-concepts-technology-and-architecture-9780133387520) — *Thomas Erl* (2023)
 * [**AWS Cloud Practitioner Essentials**](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/) — *Amazon Web Services*
@@ -244,7 +244,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Machine Learning, Deep Learning, GANs, NLP, RL**
+### **Machine Learning, Deep Learning, GANs, NLP, RL**
 
 * [**Artificial Intelligence: A Modern Approach (4th Ed.)**](http://aima.cs.berkeley.edu/) — *Russell & Norvig* (2022)
 * [**Hands-On Machine Learning (3rd Ed.)**](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125974/) — *Aurélien Géron* (2023)
@@ -256,7 +256,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Robotics, IoT, Embedded Systems, Cyber-Physical Systems**
+### **Robotics, IoT, Embedded Systems, Cyber-Physical Systems**
 
 * [**Modern Robotics**](https://modernrobotics.northwestern.edu/) — *Lynch & Park* (Cambridge, 2023)
 * [**Robot Modeling and Control (3rd Ed.)**](https://www.wiley.com/en-us/Robot+Modeling+and+Control%2C+3rd+Edition-p-9781118887714) — *Spong et al.* (Wiley, 2020)
@@ -266,7 +266,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Quantum Computing & Quantum Machine Learning**
+### **Quantum Computing & Quantum Machine Learning**
 
 * [**Quantum Computation and Quantum Information**](https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/EA1DA6C1C587663618831504A56B9B9) — *Nielsen & Chuang* (Cambridge, 2023)
 * [**Quantum Computing for Computer Scientists**](https://www.cambridge.org/highereducation/books/quantum-computing-for-computer-scientists/...) — *Yanofsky & Mannucci* (2020)
@@ -274,7 +274,7 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **Astrophysics, Astronomy, Satellite Computing**
+### **Astrophysics, Astronomy, Satellite Computing**
 
 * [**Introduction to Modern Astrophysics (2nd Ed.)**](https://www.cambridge.org/highereducation/books/introduction-to-modern-astrophysics/1EAD67F37D7596E6D9BF989E77C43764) — *Carroll & Ostlie* (2023)
 * [**Space Mission Engineering**](https://www.amcs.com/space-mission-engineering-the-new-smad/) — *Wertz et al.* (2020)
@@ -283,14 +283,14 @@ Is a secure platform that certifies the existence of your identity documents in 
 
 ---
 
-# ### **AR/VR, Holography & Visualization**
+### **AR/VR, Holography & Visualization**
 
 * [**Understanding Virtual Reality (2nd Ed.)**](https://www.morganclaypool.com/doi/abs/10.2200/S01162ED2V01Y202212ICR081) — *Craig, Sherman & Will* (2021)
 * [**Basics of Holography**](https://www.cambridge.org/highereducation/books/basics-of-holography/...) — *P. Hariharan* (Cambridge University Press, 2020)
 
 ---
 
-# ### **Complexity Theory & High-Performance Computing**
+### **Complexity Theory & High-Performance Computing**
 
 * [**Introduction to the Theory of Computation**](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/) — *Michael Sipser* (2012)
 * [**Computational Complexity**](https://www.cambridge.org/core/books/computational-complexity/...) — *Arora & Barak* (Cambridge University Press, 2009)
