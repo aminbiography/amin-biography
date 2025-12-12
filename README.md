@@ -1,6 +1,6 @@
 # aminbiography: 
 #### Git Live URL:
-https://aminbiography.github.io/amin-biography/       
+https://aminbiography.github.io/amin-biography/        
   
 ************************************************************************************************************
 
